@@ -1,4 +1,9 @@
-[![npm version](https://badge.fury.io/js/ionic-angular.svg)](https://badge.fury.io/js/ionic-angular)
+# 3.9.9b
+Forked to provide updates to Ionic 3.9.9 to continue operating past it's endlife.
+
+## Updated Jan 22, 2020
+FIXED: "export 'DOCUMENT' was not found in '@angular/platform-browser'.
+https://stackoverflow.com/questions/56826692/export-document-was-not-found-in-angular-platform-browser
 
 # Ionic
 
